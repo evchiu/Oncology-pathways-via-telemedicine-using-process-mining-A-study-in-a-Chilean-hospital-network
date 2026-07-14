@@ -1,0 +1,7 @@
+cohort,n_patients,chi2,p,cramers_v,p_fdr,sig_fdr
+Others,10,5.62,0.9338,0.134,0.9338,False
+Pancreas,3,6.16,0.9078,0.141,0.9338,False
+Rectum,6,7.02,0.8566,0.15,0.9338,False
+Colon,12,9.83,0.6312,0.177,0.9338,False
+Breast,10,9.0,0.7028,0.17,0.9338,False
+Lung,9,10.24,0.5952,0.181,0.9338,False

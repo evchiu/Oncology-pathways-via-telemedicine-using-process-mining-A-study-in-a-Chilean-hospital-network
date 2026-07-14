@@ -1,0 +1,2 @@
+mean_days_with_oom,mean_days_without_oom,global_oom_rate_100pd,spearman_rho_rate,spearman_p,poisson_irr_duration,irr_ci_low,irr_ci_high,irr_p
+229.6,201.1,0.317,0.051,0.724,0.758,0.39,1.473,0.414
