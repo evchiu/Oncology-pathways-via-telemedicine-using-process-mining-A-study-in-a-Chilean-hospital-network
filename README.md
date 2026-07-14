@@ -35,10 +35,13 @@ clinical results.
 
 ## Requirements
 
+Python 3.10+ and the packages listed in `requirements.txt`. Install them with:
+
 ```bash
-pip install pm4py pandas numpy scipy statsmodels lifelines matplotlib
+pip install -r requirements.txt
 ```
 
+(equivalently: `pip install pm4py pandas numpy scipy statsmodels lifelines matplotlib`).
 Only the conformance stage requires PM4Py (the same library used in the study);
 the remaining analyses use pandas, scipy, statsmodels and lifelines.
 
